@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FE0FC7D6208C654B005D1660 /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE0FC7D5208C654B005D1660 /* DashboardViewController.swift */; };
+		FE0FC7D8208C6763005D1660 /* KitchenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE0FC7D7208C6763005D1660 /* KitchenViewController.swift */; };
 		FE616C1F204D1E74004DA9E9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE616C1E204D1E74004DA9E9 /* AppDelegate.swift */; };
 		FE616C21204D1E74004DA9E9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE616C20204D1E74004DA9E9 /* ViewController.swift */; };
 		FE616C24204D1E74004DA9E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE616C22204D1E74004DA9E9 /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		FE0FC7D5208C654B005D1660 /* DashboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewController.swift; sourceTree = "<group>"; };
+		FE0FC7D7208C6763005D1660 /* KitchenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KitchenViewController.swift; sourceTree = "<group>"; };
 		FE616C1B204D1E74004DA9E9 /* NotesApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NotesApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE616C1E204D1E74004DA9E9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FE616C20204D1E74004DA9E9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				FEA4F40C204E8FEC001DF2E6 /* NotesCell.swift */,
 				FEFF2221204FD83B0034B974 /* MenuCell.swift */,
 				FE0FC7D5208C654B005D1660 /* DashboardViewController.swift */,
+				FE0FC7D7208C6763005D1660 /* KitchenViewController.swift */,
 			);
 			path = NotesApp;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 				FEFF2220204FD62E0034B974 /* CafeViewController.swift in Sources */,
 				FE0FC7D6208C654B005D1660 /* DashboardViewController.swift in Sources */,
 				FEA4F40D204E8FEC001DF2E6 /* NotesCell.swift in Sources */,
+				FE0FC7D8208C6763005D1660 /* KitchenViewController.swift in Sources */,
 				FEFF2222204FD83B0034B974 /* MenuCell.swift in Sources */,
 				FE616C21204D1E74004DA9E9 /* ViewController.swift in Sources */,
 				FE616C31204D595C004DA9E9 /* Extensions.swift in Sources */,
