@@ -9,7 +9,7 @@
 import UIKit
 
 class CafeViewController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource {
-
+// Changes in the notes app
 	@IBOutlet weak var menuCV:UICollectionView!
 	
     override func viewDidLoad() {
